@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 800" style="enable-background:new 0 0 600 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#878787;stroke-width:2.33;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#878787;stroke-width:2.33;stroke-miterlimit:10;stroke-dasharray:11.8843,11.8843;}
+	.st2{fill:#878787;}
+	.st3{font-family:Roboto;font-weight:400;}
+	.st4{font-size:13px;}
+	.st5{fill:none;stroke:#878787;stroke-width:3.33;stroke-miterlimit:10;}
+</style>
+<g id="Oct">
+	<path class="st0" d="M42.05,154.6c0,0,18.62,7.54,27.93,9.31s16.85,1.77,25.27,0.89c7.58-0.8,19.83-0.52,38.68,5.68"/>
+	<g>
+		<g>
+			<path class="st0" d="M133.93,170.48c1.83,0.6,3.71,1.26,5.67,1.97"/>
+			<path class="st1" d="M150.88,176.18c34.12,10.24,118.01,29.35,162.08,25.42c49.66-4.43,72.27-16.41,124.59-47
+				c36.98-21.62,68.2-42.58,83.33-53.01"/>
+			<path class="st0" d="M525.76,98.2c3.18-2.22,4.9-3.46,4.9-3.46"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 120.5566 188.9912)" class="st2 st3 st4">OCT</text>
+	<text transform="matrix(1 0 0 1 284.8319 196.9722)" class="st2 st3 st4">OCT</text>
+	<text transform="matrix(1 0 0 1 524.9265 91.8892)" class="st2 st3 st4">OCT</text>
+	<text transform="matrix(1 0 0 1 566.8267 650.5581)" class="st2 st3 st4">OCT</text>
+	<text transform="matrix(1 0 0 1 546.2092 739.6792)" class="st2 st3 st4">OCT</text>
+	<text transform="matrix(1 0 0 1 418.5134 449.0381)" class="st2 st3 st4">OCT</text>
+	<g>
+		<g>
+			<line class="st5" x1="503.17" y1="346.14" x2="549.92" y2="344.09"/>
+			<g>
+				<polygon class="st2" points="543.54,350.02 548.93,344.13 543.04,338.74 547.83,338.53 553.72,343.92 548.33,349.81 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="494.31" y1="463.64" x2="543.06" y2="445.46"/>
+			<g>
+				<polygon class="st2" points="538.82,453.07 542.14,445.8 534.87,442.49 539.36,440.81 546.63,444.13 543.31,451.39 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
